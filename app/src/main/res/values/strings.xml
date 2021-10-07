@@ -11,6 +11,6 @@
     <string name="q_find_resources">Do zasobów w aplikacji dla systemu Android odnosimy się po nazwach</string>
 
     <string name="correct_answer">Dobrze</string>
-    <string name="incorrect_answer">Dobrze</string>
+    <string name="incorrect_answer">Zła odpowiedz</string>
 
 </resources>
